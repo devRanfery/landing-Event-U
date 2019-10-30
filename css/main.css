@@ -260,7 +260,9 @@ body {
   font-weight: bold;
 }
 /* END SECTION SIX */
-
+footer{
+  padding: 20px;
+}
 .footer {
   width: 100%;
   display: flex;
